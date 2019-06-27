@@ -1,2 +1,2 @@
-# reptile
-the repository where I store my code of practice reptile
+#practice-project 
+the repository where I store my code of practice 
